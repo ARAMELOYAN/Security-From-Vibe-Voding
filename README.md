@@ -25,35 +25,21 @@ This guide bridges that gap.
 ## Overview of the Workflow
 
 
-Problem Intuition
-
-↓
-
-Vibe Coding (Exploration)
-
-↓
-
-Insight Extraction
-
-↓
-
-Engineering Design
-
-↓
-
-Determinism & Repeatability
-
-↓
-
-Robustness & Error Handling
-
-↓
-
-Safety & Failure Modes
-
-↓
-
-Validation & Proof
+Problem Intuition  
+↓  
+Vibe Coding (Exploration)  
+↓  
+Insight Extraction  
+↓  
+Engineering Design  
+↓  
+Determinism & Repeatability  
+↓  
+Robustness & Error Handling  
+↓  
+Safety & Failure Modes  
+↓  
+Validation & Proof  
 
 
 Each phase has a **clear purpose** and a **clear stopping point**.
