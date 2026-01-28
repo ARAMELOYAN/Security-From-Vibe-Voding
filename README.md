@@ -26,19 +26,33 @@ This guide bridges that gap.
 
 
 Problem Intuition
+
 ↓
+
 Vibe Coding (Exploration)
+
 ↓
+
 Insight Extraction
+
 ↓
+
 Engineering Design
+
 ↓
+
 Determinism & Repeatability
+
 ↓
+
 Robustness & Error Handling
+
 ↓
+
 Safety & Failure Modes
+
 ↓
+
 Validation & Proof
 
 
